@@ -1,0 +1,44 @@
+{
+    "Airports":[
+{
+    "code": "AUS",
+    "LatitudeDegree": 30,
+    "LatitudeMinutes":18,
+    "LongitudeDegrees": 97,
+    "LongitudeMinutes":42
+
+},{
+    "code": "AVL",
+    "LatitudeDegree": 36,
+    "LatitudeMinutes": 0,
+    "LongitudeDegrees": 82,
+    "LongitudeMinutes": 32
+
+
+},{
+    "code": "CLE",
+    "LatitudeDegree": 41,
+    "LatitudeMinutes": 24,
+    "LongitudeDegrees": 81,
+    "LongitudeMinutes": 81
+
+}
+
+        
+
+    ],
+    
+    "Edges":[
+        {
+            "orign": "AUS",
+            "destination": "DFW"
+        },{
+            "orign": "AVL",
+            "destination": "IND"
+        },{
+            "orign": "BOS",
+            "destination": "CLE"
+        }
+
+    ]
+}
